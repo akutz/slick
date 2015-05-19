@@ -1,6 +1,15 @@
 {
     "name": "slick-carousel",
-    "main": ["slick/slick.min.js", "slick/slick.css", "slick/slick-theme.css", "slick/fonts/*"],
+    "main": [
+        "dist/scripts/slick.min.js", 
+        "dist/styles/slick.css",
+        "dist/styles/slick-theme.css", 
+        "dist/assets/images/ajax-loader.gif", 
+        "dist/assets/fonts/slick/slick.eot",
+        "dist/assets/fonts/slick/slick.svg",
+        "dist/assets/fonts/slick/slick.ttf",
+        "dist/assets/fonts/slick/slick.woff"
+    ],
     "version": "1.5.5",
     "homepage": "https://github.com/kenwheeler/slick",
     "authors": [
